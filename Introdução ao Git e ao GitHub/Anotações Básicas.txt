@@ -1,0 +1,2 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git é um software para gerar projetos onde vários desenvolvedores podem trabalhar ao mesmo tempo. Desenvolvido em 2005 por Linus Torvalds precisamente para a criação do Kernel do Linux, hoje ele é utilizado para elaborar qualquer site, software ou código de forma rápida e inteligente.
